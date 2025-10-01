@@ -1,6 +1,17 @@
 # DURCIT 관리자 페이지
 
-이 프로젝트는 Reddit과 같은 DURCIT SNS 프로젝트를 관리하기 위한 관리자 대시보드입니다. 프론트엔드는 **React**와 **TailwindCSS**로 구축되었으며, 백엔드는 **Java**와 **Spring**으로 개발 중입니다.
+이 프로젝트는 Reddit과 같은 DURCIT SNS 프로젝트를 관리하기 위한 관리자 대시보드입니다.  
+프론트엔드는 **React**와 **TailwindCSS**로 구축되었으며, 백엔드는 **Java**와 **Spring**으로 개발 중입니다.
+
+---
+### 리포지터리 링크
+
+* 소개 링크: https://github.com/yoda-yoda/Project3_durcit-overview  
+* 스프링: https://github.com/yoda-yoda/Project3_durcit-spring  
+* 리액트: https://github.com/yoda-yoda/Project3_durcit-react  
+* 리액트(관리자 기능) : https://github.com/yoda-yoda/Project3_durcit-admin  
+* 배포 : https://github.com/yoda-yoda/Project3_spring-deploy  
+
 
 ---
 
@@ -84,12 +95,7 @@ src/
 ### **백엔드**
 - Java & Spring (백엔드 팀 개발 중)
 
----
 
-## **문의**
 
-추가 문의 사항이 있으면 아래로 연락해주세요:
 
-- 프로젝트 담당자: **Your Name**
-- 이메일: **your.email@example.com**
 
