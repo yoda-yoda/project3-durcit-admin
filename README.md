@@ -5,6 +5,13 @@
 
 <img width="199" height="231" alt="durcit-removebg 1" src="https://github.com/user-attachments/assets/234fc327-894c-4709-86c8-553825848fdc" />
 
+메인 페이지: [https://durcit.site](https://durcit.site) (현재는 운영이 닫힌 상태)  
+
+어드민 페이지: [https://admin.durcit.site](https://admin.durcit.site) (현재는 운영이 닫힌 상태)
+
+
+<br><br>
+
 ## DURCIT 관리자 페이지
 
 이 리포지터리는 Reddit과 같은 DURCIT SNS 프로젝트를 관리하기 위한 관리자 대시보드 리포지터리 입니다.
@@ -19,8 +26,7 @@
 * 스프링: https://github.com/yoda-yoda/Project3_durcit-spring  
 * 리액트: https://github.com/yoda-yoda/Project3_durcit-react  
 * 리액트(관리자 기능) : https://github.com/yoda-yoda/Project3_durcit-admin  
-* 배포 : https://github.com/yoda-yoda/Project3_spring-deploy  
-
+* 배포 : https://github.com/yoda-yoda/Project3_spring-deploy
 
 <br><br>
 
@@ -286,13 +292,6 @@ src/
 ## 🚀**개발 환경**
 
 <br>
-
-- ### **프로젝트 웹페이지**(현재는 운영이 닫힌 상태)
-
-메인 페이지: [https://durcit.site](https://durcit.site)
-어드민 페이지: [https://admin.durcit.site](https://admin.durcit.site)
-
-<br><br>
 
 - ### 아키텍처
 ![end](https://github.com/user-attachments/assets/6d5d4e7b-5e35-4672-94b6-d1dbdd869f4b)
