@@ -1,5 +1,4 @@
-
-# 3차 프로젝트 - **Durcit 팀프로젝트 (durckit team project)**
+# 3차 프로젝트 - **Durcit 팀프로젝트 (durcit team project)**
 
 ## 💡 팀(팀명:질수없조) 프로젝트
 
@@ -178,7 +177,7 @@ src/
 <summary> 글로 보기 </summary>
 
 
-# 3차 프로젝트 - **Durcit 팀프로젝트 (durckit team project)**
+# 3차 프로젝트 - **Durcit 팀프로젝트 (durcit team project)**
 
 ## 💡 팀(팀명:질수없조) 프로젝트
 
